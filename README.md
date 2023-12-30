@@ -11,7 +11,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,8 +25,8 @@ Users should be able to:
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/omarze13/blog-preview-card-main](https://omarze13.github.io/blog-preview-card-main/)
+- Live Site URL: [https://omarze13.github.io/blog-preview-card-main/](https://omarze13.github.io/blog-preview-card-main/)
 
 ## My process
 
