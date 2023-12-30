@@ -92,13 +92,14 @@ body{
 .blog-preview-card .card .notes p:last-child{
     margin: 10px 0 0;
 }
-.blog-preview-card .card .text h3{
+.blog-preview-card .card .text a{
     margin: 0;
     font-size: 22px;
     font-weight: bold;
-    cursor: pointer;
+    text-decoration: none;
+    color: var(--black-color);
 }
-.blog-preview-card .card .text h3:hover{
+.blog-preview-card .card .text a:hover{
     color: var(--primary-color);
 }
 .blog-preview-card .card .text p {
